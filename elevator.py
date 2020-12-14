@@ -1,6 +1,6 @@
 UP = 1
 DOWN = 2
-FLOOR_COUNT = 6
+FLOOR_COUNT = 8
 
 class ElevatorLogic(object):
     """
